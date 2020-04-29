@@ -71,6 +71,8 @@ public class Tablice {
             }
         }
         
+        // zmiana
+        
 //        for (int i = 0; i < tablica.length; i++) {
 //            System.out.println(tablica[i]);
 //        }
